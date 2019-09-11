@@ -48,6 +48,8 @@ end
 
 gem 'simple_form'
 
+gem 'devise'
+
 
 
 group :development, :test do
